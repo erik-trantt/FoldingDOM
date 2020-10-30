@@ -1,3 +1,9 @@
+# About this fork
+This is a fork from the original work by [Codrops](http://www.codrops.com).
+This version includes a fix to demo 5 that enables horizontal scrolling on touch devices (mobiles, tablets, touch laptops).
+
+If there are any questions, please contact its authors at [Anemolo/FoldingDOM](https://github.com/Anemolo/FoldingDOM)
+
 # 3D Folded Layout
 
 Demos for the tutorial on an experimental 3D layout technique for HTML elements. By Daniel Velasquez.
